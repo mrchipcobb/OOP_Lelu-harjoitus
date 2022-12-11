@@ -1,7 +1,7 @@
 
 class Lelu {
-	String nimi;
-	int paino;
+	protected String nimi;
+	public int paino;
 	
 	public Lelu()
 	{

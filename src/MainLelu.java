@@ -10,6 +10,11 @@ public class MainLelu {
 		vieteriauto1.printData();
 		vieteriauto1.kiihdyta();
 		vieteriauto1.printData();
+		
+		Kuvakirja kuvakirja1 = new Kuvakirja("Nalle PUH", 200,58);
+		kuvakirja1.printData();
+		kuvakirja1.muutaPaino(100);
+		kuvakirja1.printData();
 
 	}
 
